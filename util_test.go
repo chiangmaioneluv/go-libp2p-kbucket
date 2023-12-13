@@ -3,7 +3,7 @@ package kbucket
 import (
 	"testing"
 
-	"github.com/libp2p/go-libp2p/core/test"
+	"github.com/chiangmaioneluv/go-libp2p/core/test"
 	"github.com/stretchr/testify/require"
 )
 
